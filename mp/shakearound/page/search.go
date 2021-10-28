@@ -3,8 +3,8 @@ package page
 import (
 	"errors"
 
-	"github.com/chanxuehong/wechat/internal/util"
-	"github.com/chanxuehong/wechat/mp/core"
+	"github.com/panjunwei/wechat/internal/util"
+	"github.com/panjunwei/wechat/mp/core"
 )
 
 type SearchQuery struct {

@@ -1,8 +1,8 @@
 package user
 
 import (
-	"github.com/chanxuehong/wechat/mp/card/code"
-	"github.com/chanxuehong/wechat/mp/core"
+	"github.com/panjunwei/wechat/mp/card/code"
+	"github.com/panjunwei/wechat/mp/core"
 )
 
 // 获取用户已领取卡券接口

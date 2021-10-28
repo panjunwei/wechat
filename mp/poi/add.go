@@ -1,7 +1,7 @@
 package poi
 
 import (
-	"github.com/chanxuehong/wechat/mp/core"
+	"github.com/panjunwei/wechat/mp/core"
 )
 
 type Photo struct {

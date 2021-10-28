@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/chanxuehong/wechat/internal/debug/api"
-	"github.com/chanxuehong/wechat/oauth2"
-	"github.com/chanxuehong/wechat/util"
+	"github.com/panjunwei/wechat/internal/debug/api"
+	"github.com/panjunwei/wechat/oauth2"
+	"github.com/panjunwei/wechat/util"
 )
 
 const (

@@ -1,6 +1,6 @@
 package util
 
-import "github.com/chanxuehong/rand"
+import "github.com/panjunwei/rand"
 
 func NonceStr() string {
 	return string(rand.NewHex())

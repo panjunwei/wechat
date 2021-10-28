@@ -3,7 +3,7 @@ package datacube
 import (
 	"errors"
 
-	"github.com/chanxuehong/wechat/mp/core"
+	"github.com/panjunwei/wechat/mp/core"
 )
 
 type ArticleBaseData struct {

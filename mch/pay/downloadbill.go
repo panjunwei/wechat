@@ -13,10 +13,10 @@ import (
 	"os"
 	"unicode"
 
-	"github.com/chanxuehong/util"
+	"github.com/panjunwei/util"
 
-	"github.com/chanxuehong/wechat/mch/core"
-	wechatutil "github.com/chanxuehong/wechat/util"
+	"github.com/panjunwei/wechat/mch/core"
+	wechatutil "github.com/panjunwei/wechat/util"
 )
 
 type DownloadBillRequest struct {
