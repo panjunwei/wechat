@@ -1,4 +1,2 @@
-github.com/panjunwei/rand v0.0.0-20180830053958-4b3aff17f488 h1:6d1ijTov542DDRWsFdnPYeGWnlRxlzbpEaJuNJtBQiU=
-github.com/panjunwei/rand v0.0.0-20180830053958-4b3aff17f488/go.mod h1:h13adSJmQ5tsaV9bR72eTp7ePXJ2WIWyK6heLeietxA=
-github.com/panjunwei/util v0.0.0-20181116100727-caf892acd09c h1:+bidl2o5S+JFtpiJdUPrgHYE922v3RgHKPqzojUVRyw=
-github.com/panjunwei/util v0.0.0-20181116100727-caf892acd09c/go.mod h1:oCc2u0egGweOE68RdURGznc2LgbCrdGAAkXOQw2CuNM=
+github.com/panjunwei/rand v1.0.0/go.mod h1:B5s2aPUkTFwpXchBV3N5kHKCLF7Mxk+POozJ3fgovAE=
+github.com/panjunwei/util v1.0.0/go.mod h1:VLiG82LMTFns8TOR1S9xqIsVeLi0tw416qSN4hDwyNw=

@@ -1,5 +1,7 @@
 module github.com/panjunwei/wechat
 
+go 1.15
+
 replace (
 	golang.org/x/blog => github.com/golang/blog v0.0.0-20181222191332-a61fd227c596
 	golang.org/x/crypto => github.com/golang/crypto v0.0.0-20190103213133-ff983b9c42bc
@@ -22,6 +24,6 @@ replace (
 )
 
 require (
-	github.com/panjunwei/rand v0.0.0-20180830053958-4b3aff17f488
-	github.com/panjunwei/util v0.0.0-20181116100727-caf892acd09c
+	github.com/panjunwei/rand v1.0.0
+	github.com/panjunwei/util v1.0.0
 )
