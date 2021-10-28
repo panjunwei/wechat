@@ -1,4 +1,4 @@
-module github.com/chanxuehong/wechat
+module github.com/panjunwei/wechat
 
 replace (
 	golang.org/x/blog => github.com/golang/blog v0.0.0-20181222191332-a61fd227c596
